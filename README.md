@@ -1,4 +1,4 @@
-# face_recognition
+# company_profile_management 
 
 A new Flutter project.
 
